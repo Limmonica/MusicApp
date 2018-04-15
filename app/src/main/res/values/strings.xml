@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="music_player">Music Player</string>
+    <string name="nature_sounds">Nature Sounds</string>
+    <string name="forward">Forward</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="rewind">Rewind</string>
+    <string name="time_playing">Time Playing</string>
+    <string name="img_desc">Birds flying</string>
+    <string name="birds_song_title">Birds Song</string>
+    <string name="song_name_playing">%d min, %d sec</string>
+    <string name="time_playing_song">%d min, %d sec</string>
+    <string name="message_pausing">Pausing sound</string>
+    <string name="message_jumped">You have Jumped forward 5 seconds</string>
+    <string name="message_no_jump">Cannot jump forward 5 seconds</string>
+    <string name="message_jump_backwards">You have Jumped backward 5 seconds</string>
+    <string name="message_no_jump_back">Cannot jump backward 5 seconds</string>
+    <string name="time_playing_update">%d min, %d sec</string>
+    <string name="message_playing">Playing sound</string>
+    <string name="total_time">Total Time</string>
+    <string name="playing_song_name">Song Name</string>
+</resources>
